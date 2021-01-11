@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
  * the right constraint of the textbox in activity_main.xml would cause the textbox to have 0 width
- * writeLines in MainActivity.java wouldn't work until I changed an import value and implementation value in the gradle.
+ * readLines in MainActivity.java wouldn't work until I changed an import value and implementation value in the gradle.
  
 
 ## License
